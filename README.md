@@ -156,7 +156,7 @@ http://localhost:3000
 ## 🤝 Support
 
 Pour toute question ou assistance :
-- 📧 Email: support@wellbeing-pro.com
+- 📧 Email: gdiane@duck.com
 - 💬 Chat intégré dans l'application
 - 📚 Documentation: /docs
 
