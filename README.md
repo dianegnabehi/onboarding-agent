@@ -1,5 +1,5 @@
 # 🧠 Agent d'Onboarding IA - Bien-être Mental en Milieu Professionnel
-Application web moderne conçue pour automatiser et personnaliser le suivi du bien-être psychologique des nouveaux collaborateurs
+Application web moderne conçue pour automatiser et personnaliser le suivi du bien-être psychologique des nouveaux collaborateurs et des salariés.
 ## 📋 Description
 
 Chat intelligent qui peut etre personnalisé par métier pour fournir un support bien-être.
